@@ -1,0 +1,10 @@
+/Users/lissagoforth/workspace/csharp/exercises/lightningExercise/ListsAndDictionaries/bin/Debug/netcoreapp2.0/ListsAndDictionaries.deps.json
+/Users/lissagoforth/workspace/csharp/exercises/lightningExercise/ListsAndDictionaries/bin/Debug/netcoreapp2.0/ListsAndDictionaries.runtimeconfig.json
+/Users/lissagoforth/workspace/csharp/exercises/lightningExercise/ListsAndDictionaries/bin/Debug/netcoreapp2.0/ListsAndDictionaries.runtimeconfig.dev.json
+/Users/lissagoforth/workspace/csharp/exercises/lightningExercise/ListsAndDictionaries/bin/Debug/netcoreapp2.0/ListsAndDictionaries.dll
+/Users/lissagoforth/workspace/csharp/exercises/lightningExercise/ListsAndDictionaries/bin/Debug/netcoreapp2.0/ListsAndDictionaries.pdb
+/Users/lissagoforth/workspace/csharp/exercises/lightningExercise/ListsAndDictionaries/obj/Debug/netcoreapp2.0/ListsAndDictionaries.csproj.CoreCompileInputs.cache
+/Users/lissagoforth/workspace/csharp/exercises/lightningExercise/ListsAndDictionaries/obj/Debug/netcoreapp2.0/ListsAndDictionaries.AssemblyInfoInputs.cache
+/Users/lissagoforth/workspace/csharp/exercises/lightningExercise/ListsAndDictionaries/obj/Debug/netcoreapp2.0/ListsAndDictionaries.AssemblyInfo.cs
+/Users/lissagoforth/workspace/csharp/exercises/lightningExercise/ListsAndDictionaries/obj/Debug/netcoreapp2.0/ListsAndDictionaries.dll
+/Users/lissagoforth/workspace/csharp/exercises/lightningExercise/ListsAndDictionaries/obj/Debug/netcoreapp2.0/ListsAndDictionaries.pdb
