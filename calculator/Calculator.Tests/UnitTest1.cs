@@ -1,7 +1,7 @@
 using System;
 using Xunit;
 
-namespace Calculator.Tests
+namespace calculator.Tests
 {
     public class CalculatorShould
     {
@@ -9,7 +9,7 @@ namespace Calculator.Tests
 
         public CalculatorShould()
         {
-            Calculator _calculator = new Calculator();
+            _calculator = new Calculator();
         }
 
         [Fact]
@@ -19,7 +19,7 @@ namespace Calculator.Tests
             int res = _calculator.Add(54, 29);
 
             // We are asserting that the output should be this
-            Assert.Equal(res, 83);
+            Assert.Equal(83, res);
         }
         [Fact]
         public void SubtractTwoIntegers()
@@ -28,7 +28,7 @@ namespace Calculator.Tests
             int res = _calculator.Subtract(35, 15);
 
             // We are asserting that the output should be this
-            Assert.Equal(res, 20);
+            Assert.Equal(20, res);
         }
         [Fact]
         public void MultiplyTwoIntegers()
@@ -37,7 +37,7 @@ namespace Calculator.Tests
             int res = _calculator.Multiply(6, 5);
 
             // We are asserting that the output should be this
-            Assert.Equal(res, 30);
+            Assert.Equal(30, res);
         }
         [Fact]
         public void DivideTwoIntegers()
@@ -46,7 +46,7 @@ namespace Calculator.Tests
             int res = _calculator.Divide(45, 5);
 
             // We are asserting that the output should be this
-            Assert.Equal(res, 9);
+            Assert.Equal(9, res);
         }
     }
 }
